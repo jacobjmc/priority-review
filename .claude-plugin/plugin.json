@@ -1,0 +1,9 @@
+{
+  "name": "priority-review",
+  "displayName": "Priority Review",
+  "description": "Evidence-based P0-P3 code review plugin: portable core skill plus optional commands and reviewer subagent.",
+  "version": "1.1.0",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}
